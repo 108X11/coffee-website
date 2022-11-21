@@ -459,7 +459,7 @@ section{
 
 
 /* media queries  */
-@media (max-width:991px){
+@media (max-width:900px){
 
     html{
         font-size: 55%;
